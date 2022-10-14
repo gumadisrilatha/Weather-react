@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project was coded by Billa Srilatha and is {""}
           <a
-            href="https://github.com/gumadisrilatha/weather-react"
+            href="https://github.com/gumadisrilatha/Weather-react"
             target="_blank"
             rel="noreferrer"
           >
