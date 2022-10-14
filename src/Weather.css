@@ -1,0 +1,40 @@
+.Weather {
+  border: 1px solid;
+  padding: 16px;
+}
+
+.Weather h3 {
+  margin-top: 10px;
+  color: Black;
+  font-size: 24px;
+}
+.Weather ul {
+  margin: 0;
+  padding: 0;
+}
+.Weather li {
+  list-style: none;
+  color: grey;
+}
+
+.Weather .temperature {
+  font-weight: bold;
+}
+.Weather canvas {
+  margin-top: 5px;
+  margin-right: 5px;
+  display: inline-block;
+}
+
+.Weather .form-control {
+  padding: 10px 18px 10px 18px;
+  margin-left: 12px;
+  border-radius: 5px;
+}
+.Weather .Search {
+  background: green;
+  color: white;
+  margin-left: 5px;
+  padding: 11px 11px 11px 11px;
+  border-radius: 3px;
+}
